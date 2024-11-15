@@ -1,4 +1,4 @@
-# ASAP-Parcel-Tracker-Management
+# ASAP-Delivery-Parcel-System
 
 This project, developed as part of the CSC584: Enterprise Programming course, is a web application designed to manage parcel tracking efficiently. Built using Java Web Technology (Servlet), it provides an interface for users to track parcels and view delivery status updates.
 
